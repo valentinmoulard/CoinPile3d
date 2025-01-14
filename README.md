@@ -1,3 +1,4 @@
 # CoinPile3d
+
+[![Demo](https://img.youtube.com/vi/YfAhE_ZD3gQ/0.jpg)](https://youtu.be/YfAhE_ZD3gQ)
  
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/valentinmoulard/CoinPile3d/tree/main/Assets/Recordings/Demo1.mp4)
