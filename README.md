@@ -1,5 +1,3 @@
 # CoinPile3d
  
- <p align="center">
-  <img src="Recordings/CoinStack_Win_3_Combo.mp4">
-</p>
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/valentinmoulard/CoinPile3d/tree/main/Assets/Recordings/Demo1.mp4)
